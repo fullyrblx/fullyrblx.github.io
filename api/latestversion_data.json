@@ -1,0 +1,10 @@
+{
+  "urls": {
+    "loader": "https://fullyrblx.github.io/api/scripts/fh_loader/loader_latest.lua",
+    "fullyhub": "https://fullyrblx.github.io/api/scripts/fullyhub/version_beta1.lua"
+  },
+  "verid": {
+    "loader": 1,
+    "fullyhub": 1
+  }
+}
